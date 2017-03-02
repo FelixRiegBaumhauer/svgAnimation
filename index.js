@@ -1,4 +1,3 @@
-
 //globals
 var rid = 0;
 var size = 1;
@@ -75,7 +74,7 @@ var animateDVD = function(){
 		x-=1;
 	    }
 	}
-	//
+	//ifs
 	
 	if(xdirection == 0 && ydirection == 0){
 	    x++;
